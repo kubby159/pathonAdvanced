@@ -14,4 +14,4 @@ print(nums3) # [0, 2, 4, 6, 8]
 
 nums4 = [100,200,300,400,500]
 double_nums4 = [i * 2 for i in nums4 if i >= 300]
-print(double_nums4)
+print(double_nums4) # [600, 800, 1000]
