@@ -36,7 +36,7 @@ class HealingItem(Item):
         self.revcovery_amount = revcovery_amount
 
     def use(self):
-        print(f'[{self.name}] 을(를) 사용합니다. {self.revcovery_amount} 회복')
+        print(f'[{self.name}] 을(를) 사용합니다.. {self.revcovery_amount} 회복')
 
 
 
