@@ -12,7 +12,7 @@ print(result)
 
 # 2) search : 문자열의 전체를 검색( 결과 : 1 개의 match 객체)
 
-result = re.search('people',str)
+result = re.search('love',str)
 print(result)
 
 
